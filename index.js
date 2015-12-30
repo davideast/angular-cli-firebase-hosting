@@ -7,8 +7,7 @@ module.exports = {
   includedCommands: function() {
     return {
       'firebase:deploy': require('./lib/commands/deploy'),
-      'firebase:init': require('./lib/commands/firebase-init.js'),
-      'firebase:login': require('./lib/commands/login.js'),
+      'firebase:init': require('./lib/commands/firebase-init.js')
     };
   }
 };
