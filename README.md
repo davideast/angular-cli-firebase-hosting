@@ -33,7 +33,7 @@ ng firebase:deploy
 ## Authors
 
 - [DavidEast](http://twitter.com/_davideast)
-- Based on [ember-cli-github-pages](https://github.com/poetic/ember-cli-github-pages) by [Jake Craige](http://twitter.com/jakecraige)
+- Based on [angular-cli-github-pages](https://github.com/IgorMinar/angular-cli-github-pages) by [Igor Minar](http://twitter.com/_davideast), which is based on [ember-cli-github-pages](https://github.com/poetic/ember-cli-github-pages) by [Jake Craige](http://twitter.com/jakecraige)
 
 ## License
 
