@@ -1,5 +1,5 @@
 {
-  "name": "angular-cli-github-pages",
+  "name": "angular-cli-firebase-hosting",
   "description": "Easily publish your projects to Firebase Hosting via angular-cli",
   "version": "0.1.0",
   "repository": "https://github.com/davideast/angular-cli-firebase-hosting",
