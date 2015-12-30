@@ -1,0 +1,24 @@
+{
+  "name": "angular-cli-github-pages",
+  "description": "Easily publish your projects to Firebase Hosting via angular-cli",
+  "version": "0.1.0",
+  "repository": "https://github.com/davideast/angular-cli-firebase-hosting",
+  "engines": {
+    "node": ">= 4.1.0"
+  },
+  "author": "David East",
+  "license": "MIT",
+  "devDependencies": {},
+  "keywords": [
+    "ember-addon"
+  ],
+  "ember-addon": {
+    "configPath": "tests/dummy/config"
+  },
+  "dependencies": {
+    "firebase-tools": "^2.2.0",
+    "fs-extra": "^0.24.0",
+    "inquirer": "^0.10.1",
+    "rsvp": "^3.0.14"
+  }
+}
