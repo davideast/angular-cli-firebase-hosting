@@ -18,6 +18,12 @@ npm install --save-dev angular-cli-firebase-hosting
 
 ## Usage
 
+First, you'll need to login:
+
+```sh
+firebase login
+```
+
 There's a one-time setup command to create a `firebase.json` file:
 
 ```sh
