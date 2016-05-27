@@ -9,12 +9,7 @@
   "author": "David East",
   "license": "MIT",
   "devDependencies": {},
-  "keywords": [
-    "ember-addon"
-  ],
-  "ember-addon": {
-    "configPath": "tests/dummy/config"
-  },
+  "keywords": [],
   "dependencies": {
     "firebase-tools": "^2.2.0",
     "fs-extra": "^0.24.0",
